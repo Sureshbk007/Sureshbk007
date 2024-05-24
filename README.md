@@ -2,7 +2,6 @@
 - 👀 I’m interested in Developing website using MERN stack
 - 🌱 I’m currently learning indepth understanding of react
 - 📫 How to reach me :> sureshbk.contact.gmail.com
-- 😄 Pronouns: he/him/his
 
 
 <!---

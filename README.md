@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sureshbk007
-- 👀 I’m interested in Developing website using MERN stack
-- 🌱 I’m currently learning indepth understanding of react
+- 👀 I’m interested in Developing website.
 - 📫 How to reach me :> sureshbk.contact.gmail.com
 
 

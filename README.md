@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sureshbk007
-- 👀 I’m interested in Developing website.
+- 👀 I’m interested in developing Web Applications.
 - 📫 How to reach me :> sureshbk.contact.gmail.com
 
 
